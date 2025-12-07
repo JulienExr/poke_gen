@@ -59,6 +59,6 @@ new_image = Image.new('RGB', (w * 2, h))
 new_image.paste(image_base, (0, 0))
 new_image.paste(image_lora, (w, 0))
 
-comparison_path = "comparison_pokeforge.png"
+comparison_path = "pics/comparison_pokeforge.png"
 new_image.save(comparison_path)
 print(f"Comparison image saved to {comparison_path}")

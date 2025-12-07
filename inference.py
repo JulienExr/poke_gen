@@ -40,6 +40,6 @@ with torch.autocast(device):
         cross_attention_kwargs={"scale": 0.7},
     ).images[0]
 
-output_path = "generated_pokeforge.png"
+output_path = "pics/generated_pokeforge.png"
 image.save(output_path)
 print(f"Image saved to {output_path}")

@@ -40,4 +40,4 @@ python generate_some.py
 A few samples produced with the script (see `samples_pokeforge/`):
 
 
-![grid](grid.png)
+![grid](pics/grid.png)
