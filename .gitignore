@@ -1,0 +1,5 @@
+venv/
+cleaned_captions.py
+dataset/
+samples_pokeforge/
+samples_pokeforge_01/

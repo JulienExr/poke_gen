@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+diffusers
+accelerate
+peft
+bitsandbytes
+typing_extensions>=4.7
+tqdm
+rich>=13.0
